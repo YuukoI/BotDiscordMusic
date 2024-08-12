@@ -1,6 +1,6 @@
 Para utilizarlo se debe cambiar en .env el TOKEN que te genera discord para utilizar el bot.
 
-Dependencias del proyecto:
+Dependencias del proyecto:   
 aiohappyeyeballs   2.3.5   
 aiohttp            3.10.3  
 aiosignal          1.3.1   
